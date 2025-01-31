@@ -10,6 +10,6 @@ source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Ce
 order: '01'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg"
+thumbnail: "/img/peruimagen.jpg"
 full: "/img/peruimagen.jpg"
 ---
